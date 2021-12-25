@@ -1,0 +1,9 @@
+
+ [ 25/12/2021 17:53:08 ] SUCCESS >> CONNECTION SUCCESS !!
+ [ 25/12/2021 17:53:35 ] ERRO >> 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+ [ 25/12/2021 17:53:45 ] ERRO >> 2003: Can't connect to MySQL server on '%-.100s:%u' (%s) (Warning: %u format: a number is required, not str)
+ [ 25/12/2021 17:53:54 ] ERRO >> 1049 (42000): Unknown database 'restflas'
+ [ 25/12/2021 17:54:04 ] SUCCESS >> CONNECTION SUCCESS !!
+ [ 25/12/2021 17:54:21 ] ERRO >> 2003: Can't connect to MySQL server on 'localhost:3306' (61 Connection refused)
+ [ 25/12/2021 17:54:28 ] ERRO >> 2003: Can't connect to MySQL server on 'localhost:3306' (61 Connection refused)
+ [ 25/12/2021 17:54:35 ] SUCCESS >> CONNECTION SUCCESS !!
